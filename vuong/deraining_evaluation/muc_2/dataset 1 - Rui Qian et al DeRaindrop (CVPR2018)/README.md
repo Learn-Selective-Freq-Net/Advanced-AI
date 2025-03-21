@@ -15,7 +15,9 @@
 ## Đánh giá
 $\implies$ **Kết quả chạy thực nghiệm trên bộ dữ liệu được sử dụng thấp hơn với số liệu paper, và không thể de-rain, do:**
 
-- Dữ liệu có phân phối khác xa với dữ liệu paper (paper: ảnh mưa ảo, dữ liệu được sử dụng để thực nghiệm: ảnh mưa giống với thực tế)
+- Dữ liệu có phân phối khác xa với dữ liệu paper:
+    - Paper: Ảnh mưa ảo, thậm chí có những ảnh giống một tấm ảnh bị cào nát hơn là ảnh mưa
+    - Dữ liệu được sử dụng để thực nghiệm: Ảnh mưa giống với thực tế
 
 Ảnh mưa từ dữ liệu thực nghiệm:
 ![](./images/real_data_21.png)
